@@ -1,2 +1,2 @@
 # IST_MAJOR
-My Software Engineering Major factory automation game built in Python using Arcade where you build and expand industrial production chains from basic coal mining to complex manufacturing. Manage resources, research new technologies, and balance pollution with profit.
+My Software Engineering major project "Industrial Capitalist" is a comprehensive factory automation game built in Python using the Arcade library. Players build and expand industrial production chains, starting from basic resource extraction like coal mining and advance to complex manufacturing operations while managing a evergrowing pollution.
